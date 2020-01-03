@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487513ea-a341-4f45-b3a6-a3adfd2b048b" name="Default Changelist" comment="" />
+    <list default="true" id="487513ea-a341-4f45-b3a6-a3adfd2b048b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget_tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc_mhw_eccov4r4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate_global_ssh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/combining_multiple_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute_meridional_heat_transport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily_mean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen_sst_so.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global_volume_budget_closure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_grid_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_grid_two_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mht_26N_Altlantic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mst_26N_Altlantic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt_26N_Altlantic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operating_on_numpy_arrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotting_tiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saving_dataset_to_ncfiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ECCO_v4r4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Tst0JPUO0kgQ82MXwyoACGXx3i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -87,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
