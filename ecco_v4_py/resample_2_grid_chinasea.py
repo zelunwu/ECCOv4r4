@@ -52,9 +52,9 @@ for year in range(1992,2018):
     ds_sst.coords['time'] = ds_data.time
     ds_sst['sst'] = (('time','lat','lon'),sst)
     # name
-    ds_sst.lon.long_name = 'longitude (degree)'
-    ds_sst.lat.long_name = 'latitude (degree)'
-    ds_sst.sst.long_name = 'sea surface temperature (degree C)'
+    ds_sst.lon['long_name'] = 'longitude (degree)'
+    ds_sst.lat['long_name'] = 'latitude (degree)'
+    ds_sst.sst['long_name'] = 'sea surface temperature (degree C)'
     # output
     file_output = dir_output + 'chinasea_sst_' + str(year) + '.nc'
     print('Saving '+file_output + '...')
