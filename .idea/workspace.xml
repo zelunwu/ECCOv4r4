@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487513ea-a341-4f45-b3a6-a3adfd2b048b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Budget_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc_mhw_eccov4r4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate_global_ssh.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/combining_multiple_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute_meridional_heat_transport.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily_mean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/tiles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen_sst_so.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/global_volume_budget_closure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_grid_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_grid_two_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mht_26N_Altlantic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mst_26N_Altlantic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvt_26N_Altlantic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operating_on_numpy_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plotting_tiles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saving_dataset_to_ncfiles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
-    </list>
+    <list default="true" id="487513ea-a341-4f45-b3a6-a3adfd2b048b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +20,29 @@
   </component>
   <component name="ProjectId" id="1Tst0JPUO0kgQ82MXwyoACGXx3i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECCOv4r4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECCOv4r4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -76,6 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculate_global_ssh.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -104,14 +105,56 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
